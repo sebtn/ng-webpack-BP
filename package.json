@@ -26,7 +26,7 @@
     "eslint": "^2.2.0",
     "file-loader": "^0.8.5",
     "font-awesome": "^4.5.0",
-    "jquery": "^2.2.3",
+    "jquery": "^3.0.0",
     "karma": "^0.13.22",
     "karma-chai": "^0.1.0",
     "karma-chrome-launcher": "^0.2.3",
